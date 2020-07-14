@@ -3,8 +3,10 @@
 This is the implementation of a text captcha solver by using a small number of samples.
 
 ### Prerequisites
-- Python3   
+- Python3.5   
 - Keras   
+- Matplotlib   
+- Pillow
 
 ### Getting Start
 - **Using VerifyCodeUtils.java to generate synthesis captcha images;**   
